@@ -1,18 +1,19 @@
 ## Oi, sou Roberta Carioca👋
 
 
-### Minha Transição de Carreira 🚀
+### Em Transição para a Área de Dados! 🚀
 
+Após uma experiência sólida nas áreas administrativas e de auditoria, estou dando um passo ousado para redirecionar minha trajetória profissional rumo ao universo dos dados. 
+Essa transição é impulsionada pela minha paixão por transformar dados em insights valiosos e resultados, explorar  padrões, desvendar histórias escondidas nos números e criar soluções inovadoras que gerem impacto real e estratégico.
 
-Após uma sólida experiência em administrativa e de auditoria, decidi redirecionar minha trajetória profissional para área de dados. 
-Essa mudança nasceu do desejo de analisar dados, criar insight como criar soluções práticas, automatizar processos e explorar minha paixão por tecnologia.
+Neste GitHub, você encontrará projetos que representam minha trajetória na área de dados, envolvendo análise, visualização, aprendizado de máquina e o uso de ferramentas avançadas. Cada projeto traduz meu esforço em consolidar conhecimentos, resolver desafios reais e contribuir com soluções baseadas em dados.
 
 ### O que estou fazendo agora:
 
-Aprendizado ativo: Estudando Python, SQL, R, Power BI , Storytelling, Estatística.
+Aprendizado ativo: Estudando Python, SQL, R, Power BI , Excel, Storytelling e Estatística.
 
 ### Próximos passos
-Estou focado em aplicar minhas novas habilidades em projetos colaborativos e impactantes, aprendendo com profissionais da área e contribuindo para soluções inovadoras.
+Meu foco agora é aplicar e ampliar minhas habilidades por meio de projetos colaborativos e significativos. Quero aprender continuamente com profissionais da área, trocar experiências e contribuir para o desenvolvimento de soluções estratégicas e inovadoras
 
 <div style="display: inline_block"><br>
 
