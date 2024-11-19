@@ -9,10 +9,9 @@ Essa mudança nasceu do desejo de analisar dados, criar insight como criar solu�
 
 ### O que estou fazendo agora:
 
-Aprendizado ativo: Estudando [linguagens, ferramentas ou conceitos principais, como Python, JavaScript, Data Science, etc.].
-Projetos pessoais: Aplicando o que aprendo em projetos reais, como [cite um exemplo de projeto].
-Desenvolvimento contínuo: Concluí cursos como [cite cursos relevantes], e sigo me aprofundando em [tecnologias ou áreas de interesse].
-Próximos passos
+Aprendizado ativo: Estudando Python, SQL, R, Power BI , Storytelling, Estatística.
+
+### Próximos passos
 Estou focado em aplicar minhas novas habilidades em projetos colaborativos e impactantes, aprendendo com profissionais da área e contribuindo para soluções inovadoras.
 
 <div style="display: inline_block"><br>
@@ -21,6 +20,7 @@ Estou focado em aplicar minhas novas habilidades em projetos colaborativos e imp
   <img align="center" alt="Ro-SQL" height="30" width="40" src="https://github.com/user-attachments/assets/881e7854-5555-470e-940f-b8fbf920bd45">
   <img align="center" alt="Ro-PowerBI" height="40" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
   <img align="center" alt="Ro-Excel" height="40" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
+  <img align="center" alt="Ro-Excel" height="30" width="40" src="https://github.com/user-attachments/assets/f597a3ed-ff05-45a4-a607-320e1cbd4cc4">
 </div>
   
   ##
@@ -42,8 +42,11 @@ Estou focado em aplicar minhas novas habilidades em projetos colaborativos e imp
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+
 <!--
 **Ro-Cari/Ro-Cari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projetos pessoais: Aplicando o que aprendo em projetos reais, como [cite um exemplo de projeto].
+Desenvolvimento contínuo: Concluí cursos como [cite cursos relevantes], e sigo me aprofundando em [tecnologias ou áreas de interesse].
 
 Here are some ideas to get you started:
 
