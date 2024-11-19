@@ -29,16 +29,15 @@ Estou focado em aplicar minhas novas habilidades em projetos colaborativos e imp
   <a href="https://www.linkedin.com/in/robertacarioca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" margin= 10px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula" />
+</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
 </a>
 
 ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=dracula" />
-</a>
-
-
 
 
 
