@@ -30,7 +30,7 @@ Estou focado em aplicar minhas novas habilidades em projetos colaborativos e imp
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" margin= 10px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-cari&theme=dracula" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-cari&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
