@@ -30,15 +30,15 @@ Estou focado em aplicar minhas novas habilidades em projetos colaborativos e imp
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-cari&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-cari&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ro-cari&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ro-cari&show_icons=true&theme=dracula" />
 </a>
 
 ##
-
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ro-cari=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
