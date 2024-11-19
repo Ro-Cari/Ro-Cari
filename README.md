@@ -38,7 +38,6 @@ Estou focado em aplicar minhas novas habilidades em projetos colaborativos e imp
 </a>
 
 ##
-[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ro-cari=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
